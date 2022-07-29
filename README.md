@@ -1,27 +1,25 @@
-# Next.js + Tailwind CSS Example
+## NFT Gallery
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+An NFT Gallery made using Next.js, Tailwind CSS & Alchemy NFT APIs
 
-## Deploy your own
+Website link: https://...
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+### How it works:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+To look at all NFTs that an individual wallet holds:
 
-## How to use
+- paste a wallet address inside the Add wallet address input box
+- click search
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+To look at all NFTs in a collection:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- paste the NFT collection address in the collection address input box
+- tick the check box to search only for collection
+- click search
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+To look for a specific collection inside someones wallet:
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- paste the individual's wallet address in the wallet address input
+- paste the collection address in the collection address input
+- make sure the checkbox is UN-checked
+- click search
