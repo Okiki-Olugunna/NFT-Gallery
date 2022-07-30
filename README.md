@@ -3,6 +3,7 @@
 An NFT Gallery made using Next.js, Tailwind CSS & Alchemy NFT APIs
 
 Website link: https://NFT-Gallery.okikicodes.repl.co 
+- The website is currently only adapted to computer screens and not mobile screens
 
 ### How it works:
 
