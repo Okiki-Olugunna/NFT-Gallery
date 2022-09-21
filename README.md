@@ -7,18 +7,18 @@ Website link: https://NFT-Gallery.okikicodes.repl.co
 
 ### How it works:
 
-To look at all NFTs that an individual wallet holds:
+#### *To look at all NFTs that an individual wallet holds:*
 
 - paste a wallet address inside the Add wallet address input box
 - click search
 
-To look at all NFTs in a collection:
+#### *To look at all NFTs in a specific collection:*
 
 - paste the NFT collection address in the collection address input box
 - tick the check box to search only for collection
 - click search
 
-To look for a specific collection inside someones wallet:
+####  *To only look for a specific collection inside someone's wallet:* 
 
 - paste the individual's wallet address in the wallet address input
 - paste the collection address in the collection address input
