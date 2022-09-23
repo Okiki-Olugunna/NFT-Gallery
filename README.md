@@ -7,6 +7,11 @@ Website link: https://NFT-Gallery.okikicodes.repl.co
 
 ### How it works:
 
+Demo: 
+
+https://user-images.githubusercontent.com/92333005/191982553-ed319ae7-b9fd-43ca-8aa8-7a46396be23a.mp4
+
+
 #### *To look at all NFTs that an individual wallet holds:*
 
 - paste a wallet address inside the Add wallet address input box
